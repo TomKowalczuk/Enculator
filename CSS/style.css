@@ -22,7 +22,7 @@ nav
 {
     padding: 10px 20px 10px 20px;
     overflow: hidden;
-    height: 46px;
+    height: 92px;
     justify-content: space-between;
     display: flex;
 }
@@ -33,7 +33,7 @@ nav div a
     color: var(--primary-text);
     text-align: center;
     text-decoration: none;
-    margin: auto 20px auto 20px;
+    margin: auto 40px auto 40px;
 }
 nav div a img
 {
