@@ -109,7 +109,7 @@ h2
         gap: 20px;
     }
 
-    .grid div
+    .grid a
     {
         border-radius: 30px;
     }
@@ -118,10 +118,6 @@ h2
 .grid a
 {
     width: 100%;
-}
-
-.grid div
-{
     border-radius: 15px;
 }
 
